@@ -1,0 +1,45 @@
+body {
+  display:flex; flex-direction:column; justify-content:center;
+  min-height:100vh;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+h2 {
+  font-size: 100px;
+}
+
+.counter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 50px;
+}
+
+.value {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 50px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 50px;
+}
+
+.button1 {
+  margin-right: 25px;
+}
+
+.button2 {
+  margin-right: 25px;
+}
+
+.button3 {
+  margin-right: 25px;
+}
